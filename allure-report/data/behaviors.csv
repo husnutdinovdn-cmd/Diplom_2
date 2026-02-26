@@ -1,0 +1,4 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","API: Создание заказа","5","0","POST /api/orders","0"
+"0","","0","API: Создание пользователя","5","0","POST /api/auth/register","0"
+"0","","0","API: Логин пользователя","2","0","POST /api/auth/login","0"
